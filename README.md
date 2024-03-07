@@ -1,5 +1,8 @@
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date:
+## Date:07:03:2024
+## NAME:YUVARAJ JOSHITHA
+## REGISTER NUMBER:212223240189
+## DEPARTMENT:AIML
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
@@ -71,6 +74,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
+![Screenshot 2024-03-07 204953](https://github.com/Joshitha-YUVARAJ/EX.No.2.1-CREATE-A-3D-SOLID-MODEL-FROM-ISOMETRIC-DRAWING/assets/145742770/5bbfce4f-6a38-410f-8c11-811866748f1a)
+
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
